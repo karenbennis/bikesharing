@@ -7,6 +7,8 @@ The story can be viewed using the following link:
 
 [NYC vs DM Recommendations Tableau Story](https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations)
 
+To read the analysis, open citibike_analysis.md
+
 ## Resources
 * Data Sources: 201908-citibike-tripdata.csv, City Demographics.csv, ia_mcdonalds.csv, ny_mcdonalds.csv, Weather.csv
 * Software: Tableau Desktop 2020.2.0, Tableau Public 2020.2, Visual Studio Code 1.43.0, Chrome 81.0.4044.138
