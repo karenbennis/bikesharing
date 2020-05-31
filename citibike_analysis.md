@@ -3,7 +3,7 @@ The following Tableau story "NYC vs DM Recommendations" seeks to identify simila
 
 The story can be viewed using the following link:
 
-[NYC vs DM Recommendations Tableau Story]("https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations")
+[NYC vs DM Recommendations Tableau Story](https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations)
 
 The analysis provided here is meant to give more context to the Tableau story. The working hypothesis is that Citi Bike could operate a similar business model in Des Moines to that of NYC (albeit at a smaller scale) if demographics and climate are established to be similar.
 
