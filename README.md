@@ -5,7 +5,7 @@ The following repository includes analysis for the Tableau story "NYC vs DM Reco
 
 The story can be viewed using the following link:
 
-[NYC vs DM Recommendations Tableau Story]("https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations")
+[NYC vs DM Recommendations Tableau Story](https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations)
 
 ## Resources
 * Data Sources: 201908-citibike-tripdata.csv, City Demographics.csv, ia_mcdonalds.csv, ny_mcdonalds.csv, Weather.csv
