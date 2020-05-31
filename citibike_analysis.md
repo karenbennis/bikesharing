@@ -1,7 +1,7 @@
 # Citi Bike: Recommendations for Implementation in Des Moines based on NYC data
 The following Tableau story "NYC vs DM Recommendations" seeks to identify similarities between NYC and Des Moines for the purpose of making a recommendation to implement the bikesharing service *Citi Bike* in Des Moines.
 
-The story can be viewed using hte following link:
+The story can be viewed using the following link:
 
 ["NYC vs DM Recommendations" Tableau Story]("https://public.tableau.com/profile/karen.bennis#!/vizhome/BikesharingNYCandDesMoines/NYCvsDMRecommendations")
 
